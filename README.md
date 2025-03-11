@@ -2,8 +2,6 @@
 
 Degree in applied mathematics and computer science at University of São Paulo 🇧🇷
 
-Check some of my work at: [Kaggle](https://www.kaggle.com/marcelokenjinoda)
-
 ## Tech stack:
 
 <div style="display: inline_block"><br>
@@ -22,9 +20,7 @@ Check some of my work at: [Kaggle](https://www.kaggle.com/marcelokenjinoda)
 <img align="center" alt="Isa-vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" >
 </div>
 
-
-
-## Data Science Related
+## Data Science
 
 - [Amazona Vinacea Species Distribution Model Project](https://github.com/Marcelo-Kenji-Noda/sdm-amazona-vinacea) 
 
@@ -35,13 +31,19 @@ Check some of my work at: [Kaggle](https://www.kaggle.com/marcelokenjinoda)
 
 - https://github.com/Marcelo-Kenji-Noda/Optimization-App-Test
 
-## Web development Related
+- [EDA Restaurants Ranks (Kaggle link)](https://www.kaggle.com/code/marcelokenjinoda/eda-restaurants-ranks)
+
+- [Rohlik Sales Forecasting Challenge (Kaggle Link)](https://www.kaggle.com/code/marcelokenjinoda/rohlik-sales-forecasting-challenge-mknoda/edit)
+
+- [Regression with an Insurance dataset (Kaggle Link)](https://www.kaggle.com/code/marcelokenjinoda/marcelo-kenji-regression-insurance-dataset)
+
+## Web development
 - https://github.com/Marcelo-Kenji-Noda/MMTakahashi
 - https://github.com/Marcelo-Kenji-Noda/exercise_tracker
 - https://github.com/Marcelo-Kenji-Noda/AssignmentApp
 - https://github.com/Marcelo-Kenji-Noda/djangoDataScience
 
-## Math, Learning and Experiments
+## Math, Learning, Experiments just for fun :)
 
 - https://github.com/Marcelo-Kenji-Noda/distribuicaoDeFluido
 - https://github.com/Marcelo-Kenji-Noda/PandaTexModule
@@ -49,4 +51,3 @@ Check some of my work at: [Kaggle](https://www.kaggle.com/marcelokenjinoda)
 - https://github.com/Marcelo-Kenji-Noda/Projeto-Fluxo-Em-Redes
 - https://github.com/Marcelo-Kenji-Noda/BatalhaNaval
 
-## Just for fun :)
